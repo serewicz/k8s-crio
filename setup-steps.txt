@@ -1,0 +1,9 @@
+# Basic Steps to Delopy Kubernetes to use cri-o as the container engine
+
+# Ubuntu version: 16.04
+
+# Kubernetes version: 1.15.1
+
+# cri-o version: 1.15
+
+# 
